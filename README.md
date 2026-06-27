@@ -1,6 +1,6 @@
 # Skyblock Map Pack
 
-Generated Minecraft Bedrock packs for compressed blocks.
+Backup packs for Ashley's bedrock skyblock map
 
 ## Pack folders
 
