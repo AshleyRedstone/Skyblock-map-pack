@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:quintuple_compressed_dragon_egg_block_from_sextuple_compressed_dragon_egg_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:sextuple_compressed_dragon_egg_block"
+            }
+        ],
+        "result": {
+            "item": "skyblock:quintuple_compressed_dragon_egg_block",
+            "count": 9
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "format_version": "1.26.10",
+    "minecraft:block": {
+        "description": {
+            "identifier": "skyblock:septuple_compressed_blaze_rod_block",
+            "menu_category": {
+                "category": "construction"
+            },
+            "traits": {
+                "minecraft:placement_position": {
+                    "enabled_states": [
+                        "minecraft:block_face"
+                    ]
+                }
+            }
+        },
+        "components": {
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 56.896171875,
+                "item_specific_speeds": [
+                    {
+                        "destroy_speed": 17.0859375,
+                        "item": {
+                            "tags": "q.all_tags('minecraft:is_tool', 'minecraft:is_pickaxe') && q.any_tag('minecraft:iron_tier', 'minecraft:diamond_tier', 'minecraft:netherite_tier')"
+                        }
+                    }
+                ]
+            },
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 71744535.0
+            },
+            "minecraft:friction": 0.4,
+            "minecraft:map_color": "#FFFFFF",
+            "minecraft:light_dampening": 10,
+            "minecraft:movable": {
+                "movement_type": "immovable"
+            },
+            "minecraft:redstone_conductivity": {
+                "redstone_conductor": false
+            },
+            "minecraft:loot": "loot_tables/blocks/septuple_compressed_blaze_rod_block.json",
+            "tag:minecraft:is_pickaxe_item_destructible": {},
+            "tag:minecraft:iron_tier_destructible": {},
+            "tag:skyblock:compressed": {}
+        },
+        "permutations": [
+            {
+                "condition": "q.block_state('minecraft:block_face') == 'west' || q.block_state('minecraft:block_face') == 'east'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            0,
+                            90
+                        ]
+                    },
+                    "minecraft:geometry": "minecraft:geometry.full_block",
+                    "minecraft:material_instances": {
+                        "up": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_top"
+                        },
+                        "down": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_bottom"
+                        },
+                        "north": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "south": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "east": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "west": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "q.block_state('minecraft:block_face') == 'down' || q.block_state('minecraft:block_face') == 'up'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "minecraft:geometry": "minecraft:geometry.full_block",
+                    "minecraft:material_instances": {
+                        "up": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_top"
+                        },
+                        "down": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_bottom"
+                        },
+                        "north": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "south": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "east": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "west": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "q.block_state('minecraft:block_face') == 'north' || q.block_state('minecraft:block_face') == 'south'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            90,
+                            0,
+                            0
+                        ]
+                    },
+                    "minecraft:geometry": "minecraft:geometry.full_block",
+                    "minecraft:material_instances": {
+                        "up": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_top"
+                        },
+                        "down": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_bottom"
+                        },
+                        "north": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "south": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "east": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        },
+                        "west": {
+                            "texture": "skyblock:septuple_compressed_blaze_rod_block_side"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

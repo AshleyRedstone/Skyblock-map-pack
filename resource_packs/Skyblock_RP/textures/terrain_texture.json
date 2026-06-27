@@ -1,0 +1,1248 @@
+{
+    "resource_pack_name": "skyblock",
+    "texture_name": "atlas.terrain",
+    "texture_data": {
+        "skyblock:compressed_cobblestone": {
+            "textures": "textures/blocks/compressed_cobblestone"
+        },
+        "skyblock:double_compressed_cobblestone": {
+            "textures": "textures/blocks/double_compressed_cobblestone"
+        },
+        "skyblock:triple_compressed_cobblestone": {
+            "textures": "textures/blocks/triple_compressed_cobblestone"
+        },
+        "skyblock:quadruple_compressed_cobblestone": {
+            "textures": "textures/blocks/quadruple_compressed_cobblestone"
+        },
+        "skyblock:quintuple_compressed_cobblestone": {
+            "textures": "textures/blocks/quintuple_compressed_cobblestone"
+        },
+        "skyblock:sextuple_compressed_cobblestone": {
+            "textures": "textures/blocks/sextuple_compressed_cobblestone"
+        },
+        "skyblock:septuple_compressed_cobblestone": {
+            "textures": "textures/blocks/septuple_compressed_cobblestone"
+        },
+        "skyblock:octuple_compressed_cobblestone": {
+            "textures": "textures/blocks/octuple_compressed_cobblestone"
+        },
+        "skyblock:nonuple_compressed_cobblestone": {
+            "textures": "textures/blocks/nonuple_compressed_cobblestone"
+        },
+        "skyblock:compressed_sand": {
+            "textures": "textures/blocks/compressed_sand"
+        },
+        "skyblock:double_compressed_sand": {
+            "textures": "textures/blocks/double_compressed_sand"
+        },
+        "skyblock:triple_compressed_sand": {
+            "textures": "textures/blocks/triple_compressed_sand"
+        },
+        "skyblock:quadruple_compressed_sand": {
+            "textures": "textures/blocks/quadruple_compressed_sand"
+        },
+        "skyblock:quintuple_compressed_sand": {
+            "textures": "textures/blocks/quintuple_compressed_sand"
+        },
+        "skyblock:sextuple_compressed_sand": {
+            "textures": "textures/blocks/sextuple_compressed_sand"
+        },
+        "skyblock:septuple_compressed_sand": {
+            "textures": "textures/blocks/septuple_compressed_sand"
+        },
+        "skyblock:octuple_compressed_sand": {
+            "textures": "textures/blocks/octuple_compressed_sand"
+        },
+        "skyblock:nonuple_compressed_sand": {
+            "textures": "textures/blocks/nonuple_compressed_sand"
+        },
+        "skyblock:compressed_gravel": {
+            "textures": "textures/blocks/compressed_gravel"
+        },
+        "skyblock:double_compressed_gravel": {
+            "textures": "textures/blocks/double_compressed_gravel"
+        },
+        "skyblock:triple_compressed_gravel": {
+            "textures": "textures/blocks/triple_compressed_gravel"
+        },
+        "skyblock:quadruple_compressed_gravel": {
+            "textures": "textures/blocks/quadruple_compressed_gravel"
+        },
+        "skyblock:quintuple_compressed_gravel": {
+            "textures": "textures/blocks/quintuple_compressed_gravel"
+        },
+        "skyblock:sextuple_compressed_gravel": {
+            "textures": "textures/blocks/sextuple_compressed_gravel"
+        },
+        "skyblock:septuple_compressed_gravel": {
+            "textures": "textures/blocks/septuple_compressed_gravel"
+        },
+        "skyblock:octuple_compressed_gravel": {
+            "textures": "textures/blocks/octuple_compressed_gravel"
+        },
+        "skyblock:nonuple_compressed_gravel": {
+            "textures": "textures/blocks/nonuple_compressed_gravel"
+        },
+        "skyblock:compressed_dirt": {
+            "textures": "textures/blocks/compressed_dirt"
+        },
+        "skyblock:double_compressed_dirt": {
+            "textures": "textures/blocks/double_compressed_dirt"
+        },
+        "skyblock:triple_compressed_dirt": {
+            "textures": "textures/blocks/triple_compressed_dirt"
+        },
+        "skyblock:quadruple_compressed_dirt": {
+            "textures": "textures/blocks/quadruple_compressed_dirt"
+        },
+        "skyblock:quintuple_compressed_dirt": {
+            "textures": "textures/blocks/quintuple_compressed_dirt"
+        },
+        "skyblock:sextuple_compressed_dirt": {
+            "textures": "textures/blocks/sextuple_compressed_dirt"
+        },
+        "skyblock:septuple_compressed_dirt": {
+            "textures": "textures/blocks/septuple_compressed_dirt"
+        },
+        "skyblock:octuple_compressed_dirt": {
+            "textures": "textures/blocks/octuple_compressed_dirt"
+        },
+        "skyblock:nonuple_compressed_dirt": {
+            "textures": "textures/blocks/nonuple_compressed_dirt"
+        },
+        "skyblock:compressed_netherrack": {
+            "textures": "textures/blocks/compressed_netherrack"
+        },
+        "skyblock:double_compressed_netherrack": {
+            "textures": "textures/blocks/double_compressed_netherrack"
+        },
+        "skyblock:triple_compressed_netherrack": {
+            "textures": "textures/blocks/triple_compressed_netherrack"
+        },
+        "skyblock:quadruple_compressed_netherrack": {
+            "textures": "textures/blocks/quadruple_compressed_netherrack"
+        },
+        "skyblock:quintuple_compressed_netherrack": {
+            "textures": "textures/blocks/quintuple_compressed_netherrack"
+        },
+        "skyblock:sextuple_compressed_netherrack": {
+            "textures": "textures/blocks/sextuple_compressed_netherrack"
+        },
+        "skyblock:septuple_compressed_netherrack": {
+            "textures": "textures/blocks/septuple_compressed_netherrack"
+        },
+        "skyblock:octuple_compressed_netherrack": {
+            "textures": "textures/blocks/octuple_compressed_netherrack"
+        },
+        "skyblock:nonuple_compressed_netherrack": {
+            "textures": "textures/blocks/nonuple_compressed_netherrack"
+        },
+        "skyblock:compressed_endstone": {
+            "textures": "textures/blocks/compressed_endstone"
+        },
+        "skyblock:double_compressed_endstone": {
+            "textures": "textures/blocks/double_compressed_endstone"
+        },
+        "skyblock:triple_compressed_endstone": {
+            "textures": "textures/blocks/triple_compressed_endstone"
+        },
+        "skyblock:quadruple_compressed_endstone": {
+            "textures": "textures/blocks/quadruple_compressed_endstone"
+        },
+        "skyblock:quintuple_compressed_endstone": {
+            "textures": "textures/blocks/quintuple_compressed_endstone"
+        },
+        "skyblock:sextuple_compressed_endstone": {
+            "textures": "textures/blocks/sextuple_compressed_endstone"
+        },
+        "skyblock:septuple_compressed_endstone": {
+            "textures": "textures/blocks/septuple_compressed_endstone"
+        },
+        "skyblock:octuple_compressed_endstone": {
+            "textures": "textures/blocks/octuple_compressed_endstone"
+        },
+        "skyblock:nonuple_compressed_endstone": {
+            "textures": "textures/blocks/nonuple_compressed_endstone"
+        },
+        "skyblock:compressed_obsidian": {
+            "textures": "textures/blocks/compressed_obsidian"
+        },
+        "skyblock:double_compressed_obsidian": {
+            "textures": "textures/blocks/double_compressed_obsidian"
+        },
+        "skyblock:triple_compressed_obsidian": {
+            "textures": "textures/blocks/triple_compressed_obsidian"
+        },
+        "skyblock:quadruple_compressed_obsidian": {
+            "textures": "textures/blocks/quadruple_compressed_obsidian"
+        },
+        "skyblock:quintuple_compressed_obsidian": {
+            "textures": "textures/blocks/quintuple_compressed_obsidian"
+        },
+        "skyblock:sextuple_compressed_obsidian": {
+            "textures": "textures/blocks/sextuple_compressed_obsidian"
+        },
+        "skyblock:septuple_compressed_obsidian": {
+            "textures": "textures/blocks/septuple_compressed_obsidian"
+        },
+        "skyblock:octuple_compressed_obsidian": {
+            "textures": "textures/blocks/octuple_compressed_obsidian"
+        },
+        "skyblock:nonuple_compressed_obsidian": {
+            "textures": "textures/blocks/nonuple_compressed_obsidian"
+        },
+        "skyblock:compressed_chaos_block": {
+            "textures": "textures/blocks/compressed_chaos_block"
+        },
+        "skyblock:double_compressed_chaos_block": {
+            "textures": "textures/blocks/double_compressed_chaos_block"
+        },
+        "skyblock:triple_compressed_chaos_block": {
+            "textures": "textures/blocks/triple_compressed_chaos_block"
+        },
+        "skyblock:quadruple_compressed_chaos_block": {
+            "textures": "textures/blocks/quadruple_compressed_chaos_block"
+        },
+        "skyblock:quintuple_compressed_chaos_block": {
+            "textures": "textures/blocks/quintuple_compressed_chaos_block"
+        },
+        "skyblock:sextuple_compressed_chaos_block": {
+            "textures": "textures/blocks/sextuple_compressed_chaos_block"
+        },
+        "skyblock:septuple_compressed_chaos_block": {
+            "textures": "textures/blocks/septuple_compressed_chaos_block"
+        },
+        "skyblock:octuple_compressed_chaos_block": {
+            "textures": "textures/blocks/octuple_compressed_chaos_block"
+        },
+        "skyblock:nonuple_compressed_chaos_block": {
+            "textures": "textures/blocks/nonuple_compressed_chaos_block"
+        },
+        "skyblock:compressed_bedrock": {
+            "textures": "textures/blocks/compressed_bedrock"
+        },
+        "skyblock:double_compressed_bedrock": {
+            "textures": "textures/blocks/double_compressed_bedrock"
+        },
+        "skyblock:triple_compressed_bedrock": {
+            "textures": "textures/blocks/triple_compressed_bedrock"
+        },
+        "skyblock:quadruple_compressed_bedrock": {
+            "textures": "textures/blocks/quadruple_compressed_bedrock"
+        },
+        "skyblock:quintuple_compressed_bedrock": {
+            "textures": "textures/blocks/quintuple_compressed_bedrock"
+        },
+        "skyblock:sextuple_compressed_bedrock": {
+            "textures": "textures/blocks/sextuple_compressed_bedrock"
+        },
+        "skyblock:septuple_compressed_bedrock": {
+            "textures": "textures/blocks/septuple_compressed_bedrock"
+        },
+        "skyblock:octuple_compressed_bedrock": {
+            "textures": "textures/blocks/octuple_compressed_bedrock"
+        },
+        "skyblock:nonuple_compressed_bedrock": {
+            "textures": "textures/blocks/nonuple_compressed_bedrock"
+        },
+        "skyblock:compressed_amethyst": {
+            "textures": "textures/blocks/compressed_amethyst"
+        },
+        "skyblock:double_compressed_amethyst": {
+            "textures": "textures/blocks/double_compressed_amethyst"
+        },
+        "skyblock:triple_compressed_amethyst": {
+            "textures": "textures/blocks/triple_compressed_amethyst"
+        },
+        "skyblock:quadruple_compressed_amethyst": {
+            "textures": "textures/blocks/quadruple_compressed_amethyst"
+        },
+        "skyblock:quintuple_compressed_amethyst": {
+            "textures": "textures/blocks/quintuple_compressed_amethyst"
+        },
+        "skyblock:sextuple_compressed_amethyst": {
+            "textures": "textures/blocks/sextuple_compressed_amethyst"
+        },
+        "skyblock:septuple_compressed_amethyst": {
+            "textures": "textures/blocks/septuple_compressed_amethyst"
+        },
+        "skyblock:octuple_compressed_amethyst": {
+            "textures": "textures/blocks/octuple_compressed_amethyst"
+        },
+        "skyblock:nonuple_compressed_amethyst": {
+            "textures": "textures/blocks/nonuple_compressed_amethyst"
+        },
+        "skyblock:compressed_granite": {
+            "textures": "textures/blocks/compressed_granite"
+        },
+        "skyblock:double_compressed_granite": {
+            "textures": "textures/blocks/double_compressed_granite"
+        },
+        "skyblock:triple_compressed_granite": {
+            "textures": "textures/blocks/triple_compressed_granite"
+        },
+        "skyblock:quadruple_compressed_granite": {
+            "textures": "textures/blocks/quadruple_compressed_granite"
+        },
+        "skyblock:quintuple_compressed_granite": {
+            "textures": "textures/blocks/quintuple_compressed_granite"
+        },
+        "skyblock:sextuple_compressed_granite": {
+            "textures": "textures/blocks/sextuple_compressed_granite"
+        },
+        "skyblock:septuple_compressed_granite": {
+            "textures": "textures/blocks/septuple_compressed_granite"
+        },
+        "skyblock:octuple_compressed_granite": {
+            "textures": "textures/blocks/octuple_compressed_granite"
+        },
+        "skyblock:nonuple_compressed_granite": {
+            "textures": "textures/blocks/nonuple_compressed_granite"
+        },
+        "skyblock:compressed_diorite": {
+            "textures": "textures/blocks/compressed_diorite"
+        },
+        "skyblock:double_compressed_diorite": {
+            "textures": "textures/blocks/double_compressed_diorite"
+        },
+        "skyblock:triple_compressed_diorite": {
+            "textures": "textures/blocks/triple_compressed_diorite"
+        },
+        "skyblock:quadruple_compressed_diorite": {
+            "textures": "textures/blocks/quadruple_compressed_diorite"
+        },
+        "skyblock:quintuple_compressed_diorite": {
+            "textures": "textures/blocks/quintuple_compressed_diorite"
+        },
+        "skyblock:sextuple_compressed_diorite": {
+            "textures": "textures/blocks/sextuple_compressed_diorite"
+        },
+        "skyblock:septuple_compressed_diorite": {
+            "textures": "textures/blocks/septuple_compressed_diorite"
+        },
+        "skyblock:octuple_compressed_diorite": {
+            "textures": "textures/blocks/octuple_compressed_diorite"
+        },
+        "skyblock:nonuple_compressed_diorite": {
+            "textures": "textures/blocks/nonuple_compressed_diorite"
+        },
+        "skyblock:compressed_andesite": {
+            "textures": "textures/blocks/compressed_andesite"
+        },
+        "skyblock:double_compressed_andesite": {
+            "textures": "textures/blocks/double_compressed_andesite"
+        },
+        "skyblock:triple_compressed_andesite": {
+            "textures": "textures/blocks/triple_compressed_andesite"
+        },
+        "skyblock:quadruple_compressed_andesite": {
+            "textures": "textures/blocks/quadruple_compressed_andesite"
+        },
+        "skyblock:quintuple_compressed_andesite": {
+            "textures": "textures/blocks/quintuple_compressed_andesite"
+        },
+        "skyblock:sextuple_compressed_andesite": {
+            "textures": "textures/blocks/sextuple_compressed_andesite"
+        },
+        "skyblock:septuple_compressed_andesite": {
+            "textures": "textures/blocks/septuple_compressed_andesite"
+        },
+        "skyblock:octuple_compressed_andesite": {
+            "textures": "textures/blocks/octuple_compressed_andesite"
+        },
+        "skyblock:nonuple_compressed_andesite": {
+            "textures": "textures/blocks/nonuple_compressed_andesite"
+        },
+        "skyblock:compressed_clay": {
+            "textures": "textures/blocks/compressed_clay"
+        },
+        "skyblock:double_compressed_clay": {
+            "textures": "textures/blocks/double_compressed_clay"
+        },
+        "skyblock:triple_compressed_clay": {
+            "textures": "textures/blocks/triple_compressed_clay"
+        },
+        "skyblock:quadruple_compressed_clay": {
+            "textures": "textures/blocks/quadruple_compressed_clay"
+        },
+        "skyblock:quintuple_compressed_clay": {
+            "textures": "textures/blocks/quintuple_compressed_clay"
+        },
+        "skyblock:sextuple_compressed_clay": {
+            "textures": "textures/blocks/sextuple_compressed_clay"
+        },
+        "skyblock:septuple_compressed_clay": {
+            "textures": "textures/blocks/septuple_compressed_clay"
+        },
+        "skyblock:octuple_compressed_clay": {
+            "textures": "textures/blocks/octuple_compressed_clay"
+        },
+        "skyblock:nonuple_compressed_clay": {
+            "textures": "textures/blocks/nonuple_compressed_clay"
+        },
+        "skyblock:compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/compressed_cobbled_deepslate"
+        },
+        "skyblock:double_compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/double_compressed_cobbled_deepslate"
+        },
+        "skyblock:triple_compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/triple_compressed_cobbled_deepslate"
+        },
+        "skyblock:quadruple_compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/quadruple_compressed_cobbled_deepslate"
+        },
+        "skyblock:quintuple_compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/quintuple_compressed_cobbled_deepslate"
+        },
+        "skyblock:sextuple_compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/sextuple_compressed_cobbled_deepslate"
+        },
+        "skyblock:septuple_compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/septuple_compressed_cobbled_deepslate"
+        },
+        "skyblock:octuple_compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/octuple_compressed_cobbled_deepslate"
+        },
+        "skyblock:nonuple_compressed_cobbled_deepslate": {
+            "textures": "textures/blocks/nonuple_compressed_cobbled_deepslate"
+        },
+        "skyblock:compressed_gold_block": {
+            "textures": "textures/blocks/compressed_gold_block"
+        },
+        "skyblock:double_compressed_gold_block": {
+            "textures": "textures/blocks/double_compressed_gold_block"
+        },
+        "skyblock:triple_compressed_gold_block": {
+            "textures": "textures/blocks/triple_compressed_gold_block"
+        },
+        "skyblock:quadruple_compressed_gold_block": {
+            "textures": "textures/blocks/quadruple_compressed_gold_block"
+        },
+        "skyblock:quintuple_compressed_gold_block": {
+            "textures": "textures/blocks/quintuple_compressed_gold_block"
+        },
+        "skyblock:sextuple_compressed_gold_block": {
+            "textures": "textures/blocks/sextuple_compressed_gold_block"
+        },
+        "skyblock:septuple_compressed_gold_block": {
+            "textures": "textures/blocks/septuple_compressed_gold_block"
+        },
+        "skyblock:octuple_compressed_gold_block": {
+            "textures": "textures/blocks/octuple_compressed_gold_block"
+        },
+        "skyblock:nonuple_compressed_gold_block": {
+            "textures": "textures/blocks/nonuple_compressed_gold_block"
+        },
+        "skyblock:compressed_diamond_block": {
+            "textures": "textures/blocks/compressed_diamond_block"
+        },
+        "skyblock:double_compressed_diamond_block": {
+            "textures": "textures/blocks/double_compressed_diamond_block"
+        },
+        "skyblock:triple_compressed_diamond_block": {
+            "textures": "textures/blocks/triple_compressed_diamond_block"
+        },
+        "skyblock:quadruple_compressed_diamond_block": {
+            "textures": "textures/blocks/quadruple_compressed_diamond_block"
+        },
+        "skyblock:quintuple_compressed_diamond_block": {
+            "textures": "textures/blocks/quintuple_compressed_diamond_block"
+        },
+        "skyblock:sextuple_compressed_diamond_block": {
+            "textures": "textures/blocks/sextuple_compressed_diamond_block"
+        },
+        "skyblock:septuple_compressed_diamond_block": {
+            "textures": "textures/blocks/septuple_compressed_diamond_block"
+        },
+        "skyblock:octuple_compressed_diamond_block": {
+            "textures": "textures/blocks/octuple_compressed_diamond_block"
+        },
+        "skyblock:nonuple_compressed_diamond_block": {
+            "textures": "textures/blocks/nonuple_compressed_diamond_block"
+        },
+        "skyblock:compressed_emerald_block": {
+            "textures": "textures/blocks/compressed_emerald_block"
+        },
+        "skyblock:double_compressed_emerald_block": {
+            "textures": "textures/blocks/double_compressed_emerald_block"
+        },
+        "skyblock:triple_compressed_emerald_block": {
+            "textures": "textures/blocks/triple_compressed_emerald_block"
+        },
+        "skyblock:quadruple_compressed_emerald_block": {
+            "textures": "textures/blocks/quadruple_compressed_emerald_block"
+        },
+        "skyblock:quintuple_compressed_emerald_block": {
+            "textures": "textures/blocks/quintuple_compressed_emerald_block"
+        },
+        "skyblock:sextuple_compressed_emerald_block": {
+            "textures": "textures/blocks/sextuple_compressed_emerald_block"
+        },
+        "skyblock:septuple_compressed_emerald_block": {
+            "textures": "textures/blocks/septuple_compressed_emerald_block"
+        },
+        "skyblock:octuple_compressed_emerald_block": {
+            "textures": "textures/blocks/octuple_compressed_emerald_block"
+        },
+        "skyblock:nonuple_compressed_emerald_block": {
+            "textures": "textures/blocks/nonuple_compressed_emerald_block"
+        },
+        "skyblock:compressed_iron_block": {
+            "textures": "textures/blocks/compressed_iron_block"
+        },
+        "skyblock:double_compressed_iron_block": {
+            "textures": "textures/blocks/double_compressed_iron_block"
+        },
+        "skyblock:triple_compressed_iron_block": {
+            "textures": "textures/blocks/triple_compressed_iron_block"
+        },
+        "skyblock:quadruple_compressed_iron_block": {
+            "textures": "textures/blocks/quadruple_compressed_iron_block"
+        },
+        "skyblock:quintuple_compressed_iron_block": {
+            "textures": "textures/blocks/quintuple_compressed_iron_block"
+        },
+        "skyblock:sextuple_compressed_iron_block": {
+            "textures": "textures/blocks/sextuple_compressed_iron_block"
+        },
+        "skyblock:septuple_compressed_iron_block": {
+            "textures": "textures/blocks/septuple_compressed_iron_block"
+        },
+        "skyblock:octuple_compressed_iron_block": {
+            "textures": "textures/blocks/octuple_compressed_iron_block"
+        },
+        "skyblock:nonuple_compressed_iron_block": {
+            "textures": "textures/blocks/nonuple_compressed_iron_block"
+        },
+        "skyblock:compressed_redstone_block": {
+            "textures": "textures/blocks/compressed_redstone_block"
+        },
+        "skyblock:double_compressed_redstone_block": {
+            "textures": "textures/blocks/double_compressed_redstone_block"
+        },
+        "skyblock:triple_compressed_redstone_block": {
+            "textures": "textures/blocks/triple_compressed_redstone_block"
+        },
+        "skyblock:quadruple_compressed_redstone_block": {
+            "textures": "textures/blocks/quadruple_compressed_redstone_block"
+        },
+        "skyblock:quintuple_compressed_redstone_block": {
+            "textures": "textures/blocks/quintuple_compressed_redstone_block"
+        },
+        "skyblock:sextuple_compressed_redstone_block": {
+            "textures": "textures/blocks/sextuple_compressed_redstone_block"
+        },
+        "skyblock:septuple_compressed_redstone_block": {
+            "textures": "textures/blocks/septuple_compressed_redstone_block"
+        },
+        "skyblock:octuple_compressed_redstone_block": {
+            "textures": "textures/blocks/octuple_compressed_redstone_block"
+        },
+        "skyblock:nonuple_compressed_redstone_block": {
+            "textures": "textures/blocks/nonuple_compressed_redstone_block"
+        },
+        "skyblock:compressed_copper_block": {
+            "textures": "textures/blocks/compressed_copper_block"
+        },
+        "skyblock:double_compressed_copper_block": {
+            "textures": "textures/blocks/double_compressed_copper_block"
+        },
+        "skyblock:triple_compressed_copper_block": {
+            "textures": "textures/blocks/triple_compressed_copper_block"
+        },
+        "skyblock:quadruple_compressed_copper_block": {
+            "textures": "textures/blocks/quadruple_compressed_copper_block"
+        },
+        "skyblock:quintuple_compressed_copper_block": {
+            "textures": "textures/blocks/quintuple_compressed_copper_block"
+        },
+        "skyblock:sextuple_compressed_copper_block": {
+            "textures": "textures/blocks/sextuple_compressed_copper_block"
+        },
+        "skyblock:septuple_compressed_copper_block": {
+            "textures": "textures/blocks/septuple_compressed_copper_block"
+        },
+        "skyblock:octuple_compressed_copper_block": {
+            "textures": "textures/blocks/octuple_compressed_copper_block"
+        },
+        "skyblock:nonuple_compressed_copper_block": {
+            "textures": "textures/blocks/nonuple_compressed_copper_block"
+        },
+        "skyblock:compressed_lapis_block": {
+            "textures": "textures/blocks/compressed_lapis_block"
+        },
+        "skyblock:double_compressed_lapis_block": {
+            "textures": "textures/blocks/double_compressed_lapis_block"
+        },
+        "skyblock:triple_compressed_lapis_block": {
+            "textures": "textures/blocks/triple_compressed_lapis_block"
+        },
+        "skyblock:quadruple_compressed_lapis_block": {
+            "textures": "textures/blocks/quadruple_compressed_lapis_block"
+        },
+        "skyblock:quintuple_compressed_lapis_block": {
+            "textures": "textures/blocks/quintuple_compressed_lapis_block"
+        },
+        "skyblock:sextuple_compressed_lapis_block": {
+            "textures": "textures/blocks/sextuple_compressed_lapis_block"
+        },
+        "skyblock:septuple_compressed_lapis_block": {
+            "textures": "textures/blocks/septuple_compressed_lapis_block"
+        },
+        "skyblock:octuple_compressed_lapis_block": {
+            "textures": "textures/blocks/octuple_compressed_lapis_block"
+        },
+        "skyblock:nonuple_compressed_lapis_block": {
+            "textures": "textures/blocks/nonuple_compressed_lapis_block"
+        },
+        "skyblock:compressed_netherite_block": {
+            "textures": "textures/blocks/compressed_netherite_block"
+        },
+        "skyblock:double_compressed_netherite_block": {
+            "textures": "textures/blocks/double_compressed_netherite_block"
+        },
+        "skyblock:triple_compressed_netherite_block": {
+            "textures": "textures/blocks/triple_compressed_netherite_block"
+        },
+        "skyblock:quadruple_compressed_netherite_block": {
+            "textures": "textures/blocks/quadruple_compressed_netherite_block"
+        },
+        "skyblock:quintuple_compressed_netherite_block": {
+            "textures": "textures/blocks/quintuple_compressed_netherite_block"
+        },
+        "skyblock:sextuple_compressed_netherite_block": {
+            "textures": "textures/blocks/sextuple_compressed_netherite_block"
+        },
+        "skyblock:septuple_compressed_netherite_block": {
+            "textures": "textures/blocks/septuple_compressed_netherite_block"
+        },
+        "skyblock:octuple_compressed_netherite_block": {
+            "textures": "textures/blocks/octuple_compressed_netherite_block"
+        },
+        "skyblock:nonuple_compressed_netherite_block": {
+            "textures": "textures/blocks/nonuple_compressed_netherite_block"
+        },
+        "skyblock:compressed_coal_block": {
+            "textures": "textures/blocks/compressed_coal_block"
+        },
+        "skyblock:double_compressed_coal_block": {
+            "textures": "textures/blocks/double_compressed_coal_block"
+        },
+        "skyblock:triple_compressed_coal_block": {
+            "textures": "textures/blocks/triple_compressed_coal_block"
+        },
+        "skyblock:quadruple_compressed_coal_block": {
+            "textures": "textures/blocks/quadruple_compressed_coal_block"
+        },
+        "skyblock:quintuple_compressed_coal_block": {
+            "textures": "textures/blocks/quintuple_compressed_coal_block"
+        },
+        "skyblock:sextuple_compressed_coal_block": {
+            "textures": "textures/blocks/sextuple_compressed_coal_block"
+        },
+        "skyblock:septuple_compressed_coal_block": {
+            "textures": "textures/blocks/septuple_compressed_coal_block"
+        },
+        "skyblock:octuple_compressed_coal_block": {
+            "textures": "textures/blocks/octuple_compressed_coal_block"
+        },
+        "skyblock:nonuple_compressed_coal_block": {
+            "textures": "textures/blocks/nonuple_compressed_coal_block"
+        },
+        "skyblock:compressed_glowstone": {
+            "textures": "textures/blocks/compressed_glowstone"
+        },
+        "skyblock:double_compressed_glowstone": {
+            "textures": "textures/blocks/double_compressed_glowstone"
+        },
+        "skyblock:triple_compressed_glowstone": {
+            "textures": "textures/blocks/triple_compressed_glowstone"
+        },
+        "skyblock:quadruple_compressed_glowstone": {
+            "textures": "textures/blocks/quadruple_compressed_glowstone"
+        },
+        "skyblock:quintuple_compressed_glowstone": {
+            "textures": "textures/blocks/quintuple_compressed_glowstone"
+        },
+        "skyblock:sextuple_compressed_glowstone": {
+            "textures": "textures/blocks/sextuple_compressed_glowstone"
+        },
+        "skyblock:septuple_compressed_glowstone": {
+            "textures": "textures/blocks/septuple_compressed_glowstone"
+        },
+        "skyblock:octuple_compressed_glowstone": {
+            "textures": "textures/blocks/octuple_compressed_glowstone"
+        },
+        "skyblock:nonuple_compressed_glowstone": {
+            "textures": "textures/blocks/nonuple_compressed_glowstone"
+        },
+        "skyblock:compressed_soul_sand": {
+            "textures": "textures/blocks/compressed_soul_sand"
+        },
+        "skyblock:double_compressed_soul_sand": {
+            "textures": "textures/blocks/double_compressed_soul_sand"
+        },
+        "skyblock:triple_compressed_soul_sand": {
+            "textures": "textures/blocks/triple_compressed_soul_sand"
+        },
+        "skyblock:quadruple_compressed_soul_sand": {
+            "textures": "textures/blocks/quadruple_compressed_soul_sand"
+        },
+        "skyblock:quintuple_compressed_soul_sand": {
+            "textures": "textures/blocks/quintuple_compressed_soul_sand"
+        },
+        "skyblock:sextuple_compressed_soul_sand": {
+            "textures": "textures/blocks/sextuple_compressed_soul_sand"
+        },
+        "skyblock:septuple_compressed_soul_sand": {
+            "textures": "textures/blocks/septuple_compressed_soul_sand"
+        },
+        "skyblock:octuple_compressed_soul_sand": {
+            "textures": "textures/blocks/octuple_compressed_soul_sand"
+        },
+        "skyblock:nonuple_compressed_soul_sand": {
+            "textures": "textures/blocks/nonuple_compressed_soul_sand"
+        },
+        "skyblock:compressed_tuff": {
+            "textures": "textures/blocks/compressed_tuff"
+        },
+        "skyblock:double_compressed_tuff": {
+            "textures": "textures/blocks/double_compressed_tuff"
+        },
+        "skyblock:triple_compressed_tuff": {
+            "textures": "textures/blocks/triple_compressed_tuff"
+        },
+        "skyblock:quadruple_compressed_tuff": {
+            "textures": "textures/blocks/quadruple_compressed_tuff"
+        },
+        "skyblock:quintuple_compressed_tuff": {
+            "textures": "textures/blocks/quintuple_compressed_tuff"
+        },
+        "skyblock:sextuple_compressed_tuff": {
+            "textures": "textures/blocks/sextuple_compressed_tuff"
+        },
+        "skyblock:septuple_compressed_tuff": {
+            "textures": "textures/blocks/septuple_compressed_tuff"
+        },
+        "skyblock:octuple_compressed_tuff": {
+            "textures": "textures/blocks/octuple_compressed_tuff"
+        },
+        "skyblock:nonuple_compressed_tuff": {
+            "textures": "textures/blocks/nonuple_compressed_tuff"
+        },
+        "skyblock:compressed_flint_block": {
+            "textures": "textures/blocks/compressed_flint_block"
+        },
+        "skyblock:double_compressed_flint_block": {
+            "textures": "textures/blocks/double_compressed_flint_block"
+        },
+        "skyblock:triple_compressed_flint_block": {
+            "textures": "textures/blocks/triple_compressed_flint_block"
+        },
+        "skyblock:quadruple_compressed_flint_block": {
+            "textures": "textures/blocks/quadruple_compressed_flint_block"
+        },
+        "skyblock:quintuple_compressed_flint_block": {
+            "textures": "textures/blocks/quintuple_compressed_flint_block"
+        },
+        "skyblock:sextuple_compressed_flint_block": {
+            "textures": "textures/blocks/sextuple_compressed_flint_block"
+        },
+        "skyblock:septuple_compressed_flint_block": {
+            "textures": "textures/blocks/septuple_compressed_flint_block"
+        },
+        "skyblock:octuple_compressed_flint_block": {
+            "textures": "textures/blocks/octuple_compressed_flint_block"
+        },
+        "skyblock:nonuple_compressed_flint_block": {
+            "textures": "textures/blocks/nonuple_compressed_flint_block"
+        },
+        "skyblock:compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/compressed_blaze_rod_block_top"
+        },
+        "skyblock:compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/compressed_blaze_rod_block_side"
+        },
+        "skyblock:double_compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/double_compressed_blaze_rod_block_top"
+        },
+        "skyblock:double_compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/double_compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:double_compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/double_compressed_blaze_rod_block_side"
+        },
+        "skyblock:triple_compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/triple_compressed_blaze_rod_block_top"
+        },
+        "skyblock:triple_compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/triple_compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:triple_compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/triple_compressed_blaze_rod_block_side"
+        },
+        "skyblock:quadruple_compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/quadruple_compressed_blaze_rod_block_top"
+        },
+        "skyblock:quadruple_compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/quadruple_compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:quadruple_compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/quadruple_compressed_blaze_rod_block_side"
+        },
+        "skyblock:quintuple_compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/quintuple_compressed_blaze_rod_block_top"
+        },
+        "skyblock:quintuple_compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/quintuple_compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:quintuple_compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/quintuple_compressed_blaze_rod_block_side"
+        },
+        "skyblock:sextuple_compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/sextuple_compressed_blaze_rod_block_top"
+        },
+        "skyblock:sextuple_compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/sextuple_compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:sextuple_compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/sextuple_compressed_blaze_rod_block_side"
+        },
+        "skyblock:septuple_compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/septuple_compressed_blaze_rod_block_top"
+        },
+        "skyblock:septuple_compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/septuple_compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:septuple_compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/septuple_compressed_blaze_rod_block_side"
+        },
+        "skyblock:octuple_compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/octuple_compressed_blaze_rod_block_top"
+        },
+        "skyblock:octuple_compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/octuple_compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:octuple_compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/octuple_compressed_blaze_rod_block_side"
+        },
+        "skyblock:nonuple_compressed_blaze_rod_block_top": {
+            "textures": "textures/blocks/nonuple_compressed_blaze_rod_block_top"
+        },
+        "skyblock:nonuple_compressed_blaze_rod_block_bottom": {
+            "textures": "textures/blocks/nonuple_compressed_blaze_rod_block_bottom"
+        },
+        "skyblock:nonuple_compressed_blaze_rod_block_side": {
+            "textures": "textures/blocks/nonuple_compressed_blaze_rod_block_side"
+        },
+        "skyblock:compressed_calcite": {
+            "textures": "textures/blocks/compressed_calcite"
+        },
+        "skyblock:double_compressed_calcite": {
+            "textures": "textures/blocks/double_compressed_calcite"
+        },
+        "skyblock:triple_compressed_calcite": {
+            "textures": "textures/blocks/triple_compressed_calcite"
+        },
+        "skyblock:quadruple_compressed_calcite": {
+            "textures": "textures/blocks/quadruple_compressed_calcite"
+        },
+        "skyblock:quintuple_compressed_calcite": {
+            "textures": "textures/blocks/quintuple_compressed_calcite"
+        },
+        "skyblock:sextuple_compressed_calcite": {
+            "textures": "textures/blocks/sextuple_compressed_calcite"
+        },
+        "skyblock:septuple_compressed_calcite": {
+            "textures": "textures/blocks/septuple_compressed_calcite"
+        },
+        "skyblock:octuple_compressed_calcite": {
+            "textures": "textures/blocks/octuple_compressed_calcite"
+        },
+        "skyblock:nonuple_compressed_calcite": {
+            "textures": "textures/blocks/nonuple_compressed_calcite"
+        },
+        "skyblock:compressed_red_sand": {
+            "textures": "textures/blocks/compressed_red_sand"
+        },
+        "skyblock:double_compressed_red_sand": {
+            "textures": "textures/blocks/double_compressed_red_sand"
+        },
+        "skyblock:triple_compressed_red_sand": {
+            "textures": "textures/blocks/triple_compressed_red_sand"
+        },
+        "skyblock:quadruple_compressed_red_sand": {
+            "textures": "textures/blocks/quadruple_compressed_red_sand"
+        },
+        "skyblock:quintuple_compressed_red_sand": {
+            "textures": "textures/blocks/quintuple_compressed_red_sand"
+        },
+        "skyblock:sextuple_compressed_red_sand": {
+            "textures": "textures/blocks/sextuple_compressed_red_sand"
+        },
+        "skyblock:septuple_compressed_red_sand": {
+            "textures": "textures/blocks/septuple_compressed_red_sand"
+        },
+        "skyblock:octuple_compressed_red_sand": {
+            "textures": "textures/blocks/octuple_compressed_red_sand"
+        },
+        "skyblock:nonuple_compressed_red_sand": {
+            "textures": "textures/blocks/nonuple_compressed_red_sand"
+        },
+        "skyblock:compressed_gunpowder_block": {
+            "textures": "textures/blocks/compressed_gunpowder_block"
+        },
+        "skyblock:double_compressed_gunpowder_block": {
+            "textures": "textures/blocks/double_compressed_gunpowder_block"
+        },
+        "skyblock:triple_compressed_gunpowder_block": {
+            "textures": "textures/blocks/triple_compressed_gunpowder_block"
+        },
+        "skyblock:quadruple_compressed_gunpowder_block": {
+            "textures": "textures/blocks/quadruple_compressed_gunpowder_block"
+        },
+        "skyblock:quintuple_compressed_gunpowder_block": {
+            "textures": "textures/blocks/quintuple_compressed_gunpowder_block"
+        },
+        "skyblock:sextuple_compressed_gunpowder_block": {
+            "textures": "textures/blocks/sextuple_compressed_gunpowder_block"
+        },
+        "skyblock:septuple_compressed_gunpowder_block": {
+            "textures": "textures/blocks/septuple_compressed_gunpowder_block"
+        },
+        "skyblock:octuple_compressed_gunpowder_block": {
+            "textures": "textures/blocks/octuple_compressed_gunpowder_block"
+        },
+        "skyblock:nonuple_compressed_gunpowder_block": {
+            "textures": "textures/blocks/nonuple_compressed_gunpowder_block"
+        },
+        "skyblock:compressed_dripstone_block": {
+            "textures": "textures/blocks/compressed_dripstone_block"
+        },
+        "skyblock:double_compressed_dripstone_block": {
+            "textures": "textures/blocks/double_compressed_dripstone_block"
+        },
+        "skyblock:triple_compressed_dripstone_block": {
+            "textures": "textures/blocks/triple_compressed_dripstone_block"
+        },
+        "skyblock:quadruple_compressed_dripstone_block": {
+            "textures": "textures/blocks/quadruple_compressed_dripstone_block"
+        },
+        "skyblock:quintuple_compressed_dripstone_block": {
+            "textures": "textures/blocks/quintuple_compressed_dripstone_block"
+        },
+        "skyblock:sextuple_compressed_dripstone_block": {
+            "textures": "textures/blocks/sextuple_compressed_dripstone_block"
+        },
+        "skyblock:septuple_compressed_dripstone_block": {
+            "textures": "textures/blocks/septuple_compressed_dripstone_block"
+        },
+        "skyblock:octuple_compressed_dripstone_block": {
+            "textures": "textures/blocks/octuple_compressed_dripstone_block"
+        },
+        "skyblock:nonuple_compressed_dripstone_block": {
+            "textures": "textures/blocks/nonuple_compressed_dripstone_block"
+        },
+        "skyblock:compressed_basalt_top": {
+            "textures": "textures/blocks/compressed_basalt_top"
+        },
+        "skyblock:compressed_basalt_bottom": {
+            "textures": "textures/blocks/compressed_basalt_bottom"
+        },
+        "skyblock:compressed_basalt_side": {
+            "textures": "textures/blocks/compressed_basalt_side"
+        },
+        "skyblock:double_compressed_basalt_top": {
+            "textures": "textures/blocks/double_compressed_basalt_top"
+        },
+        "skyblock:double_compressed_basalt_bottom": {
+            "textures": "textures/blocks/double_compressed_basalt_bottom"
+        },
+        "skyblock:double_compressed_basalt_side": {
+            "textures": "textures/blocks/double_compressed_basalt_side"
+        },
+        "skyblock:triple_compressed_basalt_top": {
+            "textures": "textures/blocks/triple_compressed_basalt_top"
+        },
+        "skyblock:triple_compressed_basalt_bottom": {
+            "textures": "textures/blocks/triple_compressed_basalt_bottom"
+        },
+        "skyblock:triple_compressed_basalt_side": {
+            "textures": "textures/blocks/triple_compressed_basalt_side"
+        },
+        "skyblock:quadruple_compressed_basalt_top": {
+            "textures": "textures/blocks/quadruple_compressed_basalt_top"
+        },
+        "skyblock:quadruple_compressed_basalt_bottom": {
+            "textures": "textures/blocks/quadruple_compressed_basalt_bottom"
+        },
+        "skyblock:quadruple_compressed_basalt_side": {
+            "textures": "textures/blocks/quadruple_compressed_basalt_side"
+        },
+        "skyblock:quintuple_compressed_basalt_top": {
+            "textures": "textures/blocks/quintuple_compressed_basalt_top"
+        },
+        "skyblock:quintuple_compressed_basalt_bottom": {
+            "textures": "textures/blocks/quintuple_compressed_basalt_bottom"
+        },
+        "skyblock:quintuple_compressed_basalt_side": {
+            "textures": "textures/blocks/quintuple_compressed_basalt_side"
+        },
+        "skyblock:sextuple_compressed_basalt_top": {
+            "textures": "textures/blocks/sextuple_compressed_basalt_top"
+        },
+        "skyblock:sextuple_compressed_basalt_bottom": {
+            "textures": "textures/blocks/sextuple_compressed_basalt_bottom"
+        },
+        "skyblock:sextuple_compressed_basalt_side": {
+            "textures": "textures/blocks/sextuple_compressed_basalt_side"
+        },
+        "skyblock:septuple_compressed_basalt_top": {
+            "textures": "textures/blocks/septuple_compressed_basalt_top"
+        },
+        "skyblock:septuple_compressed_basalt_bottom": {
+            "textures": "textures/blocks/septuple_compressed_basalt_bottom"
+        },
+        "skyblock:septuple_compressed_basalt_side": {
+            "textures": "textures/blocks/septuple_compressed_basalt_side"
+        },
+        "skyblock:octuple_compressed_basalt_top": {
+            "textures": "textures/blocks/octuple_compressed_basalt_top"
+        },
+        "skyblock:octuple_compressed_basalt_bottom": {
+            "textures": "textures/blocks/octuple_compressed_basalt_bottom"
+        },
+        "skyblock:octuple_compressed_basalt_side": {
+            "textures": "textures/blocks/octuple_compressed_basalt_side"
+        },
+        "skyblock:nonuple_compressed_basalt_top": {
+            "textures": "textures/blocks/nonuple_compressed_basalt_top"
+        },
+        "skyblock:nonuple_compressed_basalt_bottom": {
+            "textures": "textures/blocks/nonuple_compressed_basalt_bottom"
+        },
+        "skyblock:nonuple_compressed_basalt_side": {
+            "textures": "textures/blocks/nonuple_compressed_basalt_side"
+        },
+        "skyblock:compressed_mud": {
+            "textures": "textures/blocks/compressed_mud"
+        },
+        "skyblock:double_compressed_mud": {
+            "textures": "textures/blocks/double_compressed_mud"
+        },
+        "skyblock:triple_compressed_mud": {
+            "textures": "textures/blocks/triple_compressed_mud"
+        },
+        "skyblock:quadruple_compressed_mud": {
+            "textures": "textures/blocks/quadruple_compressed_mud"
+        },
+        "skyblock:quintuple_compressed_mud": {
+            "textures": "textures/blocks/quintuple_compressed_mud"
+        },
+        "skyblock:sextuple_compressed_mud": {
+            "textures": "textures/blocks/sextuple_compressed_mud"
+        },
+        "skyblock:septuple_compressed_mud": {
+            "textures": "textures/blocks/septuple_compressed_mud"
+        },
+        "skyblock:octuple_compressed_mud": {
+            "textures": "textures/blocks/octuple_compressed_mud"
+        },
+        "skyblock:nonuple_compressed_mud": {
+            "textures": "textures/blocks/nonuple_compressed_mud"
+        },
+        "skyblock:compressed_blue_ice": {
+            "textures": "textures/blocks/compressed_blue_ice"
+        },
+        "skyblock:double_compressed_blue_ice": {
+            "textures": "textures/blocks/double_compressed_blue_ice"
+        },
+        "skyblock:triple_compressed_blue_ice": {
+            "textures": "textures/blocks/triple_compressed_blue_ice"
+        },
+        "skyblock:quadruple_compressed_blue_ice": {
+            "textures": "textures/blocks/quadruple_compressed_blue_ice"
+        },
+        "skyblock:quintuple_compressed_blue_ice": {
+            "textures": "textures/blocks/quintuple_compressed_blue_ice"
+        },
+        "skyblock:sextuple_compressed_blue_ice": {
+            "textures": "textures/blocks/sextuple_compressed_blue_ice"
+        },
+        "skyblock:septuple_compressed_blue_ice": {
+            "textures": "textures/blocks/septuple_compressed_blue_ice"
+        },
+        "skyblock:octuple_compressed_blue_ice": {
+            "textures": "textures/blocks/octuple_compressed_blue_ice"
+        },
+        "skyblock:nonuple_compressed_blue_ice": {
+            "textures": "textures/blocks/nonuple_compressed_blue_ice"
+        },
+        "skyblock:compressed_dragon_egg_block": {
+            "textures": "textures/blocks/compressed_dragon_egg_block"
+        },
+        "skyblock:double_compressed_dragon_egg_block": {
+            "textures": "textures/blocks/double_compressed_dragon_egg_block"
+        },
+        "skyblock:triple_compressed_dragon_egg_block": {
+            "textures": "textures/blocks/triple_compressed_dragon_egg_block"
+        },
+        "skyblock:quadruple_compressed_dragon_egg_block": {
+            "textures": "textures/blocks/quadruple_compressed_dragon_egg_block"
+        },
+        "skyblock:quintuple_compressed_dragon_egg_block": {
+            "textures": "textures/blocks/quintuple_compressed_dragon_egg_block"
+        },
+        "skyblock:sextuple_compressed_dragon_egg_block": {
+            "textures": "textures/blocks/sextuple_compressed_dragon_egg_block"
+        },
+        "skyblock:septuple_compressed_dragon_egg_block": {
+            "textures": "textures/blocks/septuple_compressed_dragon_egg_block"
+        },
+        "skyblock:octuple_compressed_dragon_egg_block": {
+            "textures": "textures/blocks/octuple_compressed_dragon_egg_block"
+        },
+        "skyblock:nonuple_compressed_dragon_egg_block": {
+            "textures": "textures/blocks/nonuple_compressed_dragon_egg_block"
+        },
+        "skyblock:compressed_nether_star_block": {
+            "textures": "textures/blocks/compressed_nether_star_block"
+        },
+        "skyblock:double_compressed_nether_star_block": {
+            "textures": "textures/blocks/double_compressed_nether_star_block"
+        },
+        "skyblock:triple_compressed_nether_star_block": {
+            "textures": "textures/blocks/triple_compressed_nether_star_block"
+        },
+        "skyblock:quadruple_compressed_nether_star_block": {
+            "textures": "textures/blocks/quadruple_compressed_nether_star_block"
+        },
+        "skyblock:quintuple_compressed_nether_star_block": {
+            "textures": "textures/blocks/quintuple_compressed_nether_star_block"
+        },
+        "skyblock:sextuple_compressed_nether_star_block": {
+            "textures": "textures/blocks/sextuple_compressed_nether_star_block"
+        },
+        "skyblock:septuple_compressed_nether_star_block": {
+            "textures": "textures/blocks/septuple_compressed_nether_star_block"
+        },
+        "skyblock:octuple_compressed_nether_star_block": {
+            "textures": "textures/blocks/octuple_compressed_nether_star_block"
+        },
+        "skyblock:nonuple_compressed_nether_star_block": {
+            "textures": "textures/blocks/nonuple_compressed_nether_star_block"
+        },
+        "skyblock:compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/compressed_sugarcane_block_top"
+        },
+        "skyblock:compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/compressed_sugarcane_block_bottom"
+        },
+        "skyblock:compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/compressed_sugarcane_block_side"
+        },
+        "skyblock:double_compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/double_compressed_sugarcane_block_top"
+        },
+        "skyblock:double_compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/double_compressed_sugarcane_block_bottom"
+        },
+        "skyblock:double_compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/double_compressed_sugarcane_block_side"
+        },
+        "skyblock:triple_compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/triple_compressed_sugarcane_block_top"
+        },
+        "skyblock:triple_compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/triple_compressed_sugarcane_block_bottom"
+        },
+        "skyblock:triple_compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/triple_compressed_sugarcane_block_side"
+        },
+        "skyblock:quadruple_compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/quadruple_compressed_sugarcane_block_top"
+        },
+        "skyblock:quadruple_compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/quadruple_compressed_sugarcane_block_bottom"
+        },
+        "skyblock:quadruple_compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/quadruple_compressed_sugarcane_block_side"
+        },
+        "skyblock:quintuple_compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/quintuple_compressed_sugarcane_block_top"
+        },
+        "skyblock:quintuple_compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/quintuple_compressed_sugarcane_block_bottom"
+        },
+        "skyblock:quintuple_compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/quintuple_compressed_sugarcane_block_side"
+        },
+        "skyblock:sextuple_compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/sextuple_compressed_sugarcane_block_top"
+        },
+        "skyblock:sextuple_compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/sextuple_compressed_sugarcane_block_bottom"
+        },
+        "skyblock:sextuple_compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/sextuple_compressed_sugarcane_block_side"
+        },
+        "skyblock:septuple_compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/septuple_compressed_sugarcane_block_top"
+        },
+        "skyblock:septuple_compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/septuple_compressed_sugarcane_block_bottom"
+        },
+        "skyblock:septuple_compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/septuple_compressed_sugarcane_block_side"
+        },
+        "skyblock:octuple_compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/octuple_compressed_sugarcane_block_top"
+        },
+        "skyblock:octuple_compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/octuple_compressed_sugarcane_block_bottom"
+        },
+        "skyblock:octuple_compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/octuple_compressed_sugarcane_block_side"
+        },
+        "skyblock:nonuple_compressed_sugarcane_block_top": {
+            "textures": "textures/blocks/nonuple_compressed_sugarcane_block_top"
+        },
+        "skyblock:nonuple_compressed_sugarcane_block_bottom": {
+            "textures": "textures/blocks/nonuple_compressed_sugarcane_block_bottom"
+        },
+        "skyblock:nonuple_compressed_sugarcane_block_side": {
+            "textures": "textures/blocks/nonuple_compressed_sugarcane_block_side"
+        },
+        "skyblock:compressed_ender_pearl_block": {
+            "textures": "textures/blocks/compressed_ender_pearl_block"
+        },
+        "skyblock:double_compressed_ender_pearl_block": {
+            "textures": "textures/blocks/double_compressed_ender_pearl_block"
+        },
+        "skyblock:triple_compressed_ender_pearl_block": {
+            "textures": "textures/blocks/triple_compressed_ender_pearl_block"
+        },
+        "skyblock:quadruple_compressed_ender_pearl_block": {
+            "textures": "textures/blocks/quadruple_compressed_ender_pearl_block"
+        },
+        "skyblock:quintuple_compressed_ender_pearl_block": {
+            "textures": "textures/blocks/quintuple_compressed_ender_pearl_block"
+        },
+        "skyblock:sextuple_compressed_ender_pearl_block": {
+            "textures": "textures/blocks/sextuple_compressed_ender_pearl_block"
+        },
+        "skyblock:septuple_compressed_ender_pearl_block": {
+            "textures": "textures/blocks/septuple_compressed_ender_pearl_block"
+        },
+        "skyblock:octuple_compressed_ender_pearl_block": {
+            "textures": "textures/blocks/octuple_compressed_ender_pearl_block"
+        },
+        "skyblock:nonuple_compressed_ender_pearl_block": {
+            "textures": "textures/blocks/nonuple_compressed_ender_pearl_block"
+        }
+    }
+}

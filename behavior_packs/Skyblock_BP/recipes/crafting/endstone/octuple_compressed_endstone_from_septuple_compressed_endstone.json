@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:octuple_compressed_endstone_from_septuple_compressed_endstone"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:septuple_compressed_endstone"
+            }
+        },
+        "result": {
+            "item": "skyblock:octuple_compressed_endstone",
+            "count": 1
+        }
+    }
+}

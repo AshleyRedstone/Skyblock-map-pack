@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:bedrock_from_compressed_bedrock"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:compressed_bedrock"
+            }
+        ],
+        "result": {
+            "item": "minecraft:bedrock",
+            "count": 9
+        }
+    }
+}

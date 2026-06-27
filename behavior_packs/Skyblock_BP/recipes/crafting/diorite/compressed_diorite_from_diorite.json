@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:compressed_diorite_from_diorite"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:diorite"
+            }
+        },
+        "result": {
+            "item": "skyblock:compressed_diorite",
+            "count": 1
+        }
+    }
+}

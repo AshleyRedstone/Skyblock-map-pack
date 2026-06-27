@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:quadruple_compressed_iron_block_from_triple_compressed_iron_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:triple_compressed_iron_block"
+            }
+        },
+        "result": {
+            "item": "skyblock:quadruple_compressed_iron_block",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:quintuple_compressed_cobblestone_from_quadruple_compressed_cobblestone"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:quadruple_compressed_cobblestone"
+            }
+        },
+        "result": {
+            "item": "skyblock:quintuple_compressed_cobblestone",
+            "count": 1
+        }
+    }
+}

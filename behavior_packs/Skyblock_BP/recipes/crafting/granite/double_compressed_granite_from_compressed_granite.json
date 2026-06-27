@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:double_compressed_granite_from_compressed_granite"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:compressed_granite"
+            }
+        },
+        "result": {
+            "item": "skyblock:double_compressed_granite",
+            "count": 1
+        }
+    }
+}

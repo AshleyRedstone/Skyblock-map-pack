@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:octuple_compressed_granite_from_nonuple_compressed_granite"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:nonuple_compressed_granite"
+            }
+        ],
+        "result": {
+            "item": "skyblock:octuple_compressed_granite",
+            "count": 9
+        }
+    }
+}

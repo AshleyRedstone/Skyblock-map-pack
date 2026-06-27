@@ -1,0 +1,148 @@
+{
+    "format_version": "1.26.10",
+    "minecraft:block": {
+        "description": {
+            "identifier": "skyblock:double_compressed_sugarcane_block",
+            "menu_category": {
+                "category": "construction"
+            },
+            "traits": {
+                "minecraft:placement_position": {
+                    "enabled_states": [
+                        "minecraft:block_face"
+                    ]
+                }
+            }
+        },
+        "components": {
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 37.4625,
+                "item_specific_speeds": [
+                    {
+                        "destroy_speed": 11.25,
+                        "item": {
+                            "tags": "q.all_tags('minecraft:is_tool', 'minecraft:is_pickaxe') && q.any_tag('minecraft:iron_tier', 'minecraft:diamond_tier', 'minecraft:netherite_tier')"
+                        }
+                    }
+                ]
+            },
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 2025
+            },
+            "minecraft:friction": 0.4,
+            "minecraft:map_color": "#FFFFFF",
+            "minecraft:light_dampening": 1,
+            "minecraft:movable": {
+                "movement_type": "immovable"
+            },
+            "minecraft:redstone_conductivity": {
+                "redstone_conductor": false
+            },
+            "minecraft:loot": "loot_tables/blocks/double_compressed_sugarcane_block.json",
+            "tag:minecraft:is_pickaxe_item_destructible": {},
+            "tag:minecraft:iron_tier_destructible": {},
+            "tag:skyblock:compressed": {}
+        },
+        "permutations": [
+            {
+                "condition": "q.block_state('minecraft:block_face') == 'west' || q.block_state('minecraft:block_face') == 'east'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            0,
+                            90
+                        ]
+                    },
+                    "minecraft:geometry": "minecraft:geometry.full_block",
+                    "minecraft:material_instances": {
+                        "up": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_top"
+                        },
+                        "down": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_bottom"
+                        },
+                        "north": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "south": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "east": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "west": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "q.block_state('minecraft:block_face') == 'down' || q.block_state('minecraft:block_face') == 'up'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "minecraft:geometry": "minecraft:geometry.full_block",
+                    "minecraft:material_instances": {
+                        "up": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_top"
+                        },
+                        "down": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_bottom"
+                        },
+                        "north": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "south": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "east": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "west": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "q.block_state('minecraft:block_face') == 'north' || q.block_state('minecraft:block_face') == 'south'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            90,
+                            0,
+                            0
+                        ]
+                    },
+                    "minecraft:geometry": "minecraft:geometry.full_block",
+                    "minecraft:material_instances": {
+                        "up": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_top"
+                        },
+                        "down": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_bottom"
+                        },
+                        "north": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "south": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "east": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        },
+                        "west": {
+                            "texture": "skyblock:double_compressed_sugarcane_block_side"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

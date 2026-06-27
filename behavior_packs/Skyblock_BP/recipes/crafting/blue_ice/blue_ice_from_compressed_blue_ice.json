@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:blue_ice_from_compressed_blue_ice"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:compressed_blue_ice"
+            }
+        ],
+        "result": {
+            "item": "minecraft:blue_ice",
+            "count": 9
+        }
+    }
+}

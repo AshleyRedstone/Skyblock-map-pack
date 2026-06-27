@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:nonuple_compressed_ender_pearl_block_from_octuple_compressed_ender_pearl_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:octuple_compressed_ender_pearl_block"
+            }
+        },
+        "result": {
+            "item": "skyblock:nonuple_compressed_ender_pearl_block",
+            "count": 1
+        }
+    }
+}

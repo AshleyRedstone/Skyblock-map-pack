@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:septuple_compressed_gold_block_from_octuple_compressed_gold_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:octuple_compressed_gold_block"
+            }
+        ],
+        "result": {
+            "item": "skyblock:septuple_compressed_gold_block",
+            "count": 9
+        }
+    }
+}

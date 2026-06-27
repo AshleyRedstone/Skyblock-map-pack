@@ -1,0 +1,692 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:crafting_items_catalog": {
+        "categories": [
+            {
+                "category_name": "construction",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_cobblestone",
+                            "name": "skyblock:itemGroup.compressedCobblestone"
+                        },
+                        "items": [
+                            "skyblock:compressed_cobblestone",
+                            "skyblock:double_compressed_cobblestone",
+                            "skyblock:triple_compressed_cobblestone",
+                            "skyblock:quadruple_compressed_cobblestone",
+                            "skyblock:quintuple_compressed_cobblestone",
+                            "skyblock:sextuple_compressed_cobblestone",
+                            "skyblock:septuple_compressed_cobblestone",
+                            "skyblock:octuple_compressed_cobblestone",
+                            "skyblock:nonuple_compressed_cobblestone"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_sand",
+                            "name": "skyblock:itemGroup.compressedSand"
+                        },
+                        "items": [
+                            "skyblock:compressed_sand",
+                            "skyblock:double_compressed_sand",
+                            "skyblock:triple_compressed_sand",
+                            "skyblock:quadruple_compressed_sand",
+                            "skyblock:quintuple_compressed_sand",
+                            "skyblock:sextuple_compressed_sand",
+                            "skyblock:septuple_compressed_sand",
+                            "skyblock:octuple_compressed_sand",
+                            "skyblock:nonuple_compressed_sand"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_gravel",
+                            "name": "skyblock:itemGroup.compressedGravel"
+                        },
+                        "items": [
+                            "skyblock:compressed_gravel",
+                            "skyblock:double_compressed_gravel",
+                            "skyblock:triple_compressed_gravel",
+                            "skyblock:quadruple_compressed_gravel",
+                            "skyblock:quintuple_compressed_gravel",
+                            "skyblock:sextuple_compressed_gravel",
+                            "skyblock:septuple_compressed_gravel",
+                            "skyblock:octuple_compressed_gravel",
+                            "skyblock:nonuple_compressed_gravel"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_dirt",
+                            "name": "skyblock:itemGroup.compressedDirt"
+                        },
+                        "items": [
+                            "skyblock:compressed_dirt",
+                            "skyblock:double_compressed_dirt",
+                            "skyblock:triple_compressed_dirt",
+                            "skyblock:quadruple_compressed_dirt",
+                            "skyblock:quintuple_compressed_dirt",
+                            "skyblock:sextuple_compressed_dirt",
+                            "skyblock:septuple_compressed_dirt",
+                            "skyblock:octuple_compressed_dirt",
+                            "skyblock:nonuple_compressed_dirt"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_netherrack",
+                            "name": "skyblock:itemGroup.compressedNetherrack"
+                        },
+                        "items": [
+                            "skyblock:compressed_netherrack",
+                            "skyblock:double_compressed_netherrack",
+                            "skyblock:triple_compressed_netherrack",
+                            "skyblock:quadruple_compressed_netherrack",
+                            "skyblock:quintuple_compressed_netherrack",
+                            "skyblock:sextuple_compressed_netherrack",
+                            "skyblock:septuple_compressed_netherrack",
+                            "skyblock:octuple_compressed_netherrack",
+                            "skyblock:nonuple_compressed_netherrack"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_endstone",
+                            "name": "skyblock:itemGroup.compressedEndstone"
+                        },
+                        "items": [
+                            "skyblock:compressed_endstone",
+                            "skyblock:double_compressed_endstone",
+                            "skyblock:triple_compressed_endstone",
+                            "skyblock:quadruple_compressed_endstone",
+                            "skyblock:quintuple_compressed_endstone",
+                            "skyblock:sextuple_compressed_endstone",
+                            "skyblock:septuple_compressed_endstone",
+                            "skyblock:octuple_compressed_endstone",
+                            "skyblock:nonuple_compressed_endstone"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_obsidian",
+                            "name": "skyblock:itemGroup.compressedObsidian"
+                        },
+                        "items": [
+                            "skyblock:compressed_obsidian",
+                            "skyblock:double_compressed_obsidian",
+                            "skyblock:triple_compressed_obsidian",
+                            "skyblock:quadruple_compressed_obsidian",
+                            "skyblock:quintuple_compressed_obsidian",
+                            "skyblock:sextuple_compressed_obsidian",
+                            "skyblock:septuple_compressed_obsidian",
+                            "skyblock:octuple_compressed_obsidian",
+                            "skyblock:nonuple_compressed_obsidian"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_chaos_block",
+                            "name": "skyblock:itemGroup.compressedChaosBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_chaos_block",
+                            "skyblock:double_compressed_chaos_block",
+                            "skyblock:triple_compressed_chaos_block",
+                            "skyblock:quadruple_compressed_chaos_block",
+                            "skyblock:quintuple_compressed_chaos_block",
+                            "skyblock:sextuple_compressed_chaos_block",
+                            "skyblock:septuple_compressed_chaos_block",
+                            "skyblock:octuple_compressed_chaos_block",
+                            "skyblock:nonuple_compressed_chaos_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_bedrock",
+                            "name": "skyblock:itemGroup.compressedBedrock"
+                        },
+                        "items": [
+                            "skyblock:compressed_bedrock",
+                            "skyblock:double_compressed_bedrock",
+                            "skyblock:triple_compressed_bedrock",
+                            "skyblock:quadruple_compressed_bedrock",
+                            "skyblock:quintuple_compressed_bedrock",
+                            "skyblock:sextuple_compressed_bedrock",
+                            "skyblock:septuple_compressed_bedrock",
+                            "skyblock:octuple_compressed_bedrock",
+                            "skyblock:nonuple_compressed_bedrock"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_amethyst",
+                            "name": "skyblock:itemGroup.compressedAmethyst"
+                        },
+                        "items": [
+                            "skyblock:compressed_amethyst",
+                            "skyblock:double_compressed_amethyst",
+                            "skyblock:triple_compressed_amethyst",
+                            "skyblock:quadruple_compressed_amethyst",
+                            "skyblock:quintuple_compressed_amethyst",
+                            "skyblock:sextuple_compressed_amethyst",
+                            "skyblock:septuple_compressed_amethyst",
+                            "skyblock:octuple_compressed_amethyst",
+                            "skyblock:nonuple_compressed_amethyst"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_granite",
+                            "name": "skyblock:itemGroup.compressedGranite"
+                        },
+                        "items": [
+                            "skyblock:compressed_granite",
+                            "skyblock:double_compressed_granite",
+                            "skyblock:triple_compressed_granite",
+                            "skyblock:quadruple_compressed_granite",
+                            "skyblock:quintuple_compressed_granite",
+                            "skyblock:sextuple_compressed_granite",
+                            "skyblock:septuple_compressed_granite",
+                            "skyblock:octuple_compressed_granite",
+                            "skyblock:nonuple_compressed_granite"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_diorite",
+                            "name": "skyblock:itemGroup.compressedDiorite"
+                        },
+                        "items": [
+                            "skyblock:compressed_diorite",
+                            "skyblock:double_compressed_diorite",
+                            "skyblock:triple_compressed_diorite",
+                            "skyblock:quadruple_compressed_diorite",
+                            "skyblock:quintuple_compressed_diorite",
+                            "skyblock:sextuple_compressed_diorite",
+                            "skyblock:septuple_compressed_diorite",
+                            "skyblock:octuple_compressed_diorite",
+                            "skyblock:nonuple_compressed_diorite"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_andesite",
+                            "name": "skyblock:itemGroup.compressedAndesite"
+                        },
+                        "items": [
+                            "skyblock:compressed_andesite",
+                            "skyblock:double_compressed_andesite",
+                            "skyblock:triple_compressed_andesite",
+                            "skyblock:quadruple_compressed_andesite",
+                            "skyblock:quintuple_compressed_andesite",
+                            "skyblock:sextuple_compressed_andesite",
+                            "skyblock:septuple_compressed_andesite",
+                            "skyblock:octuple_compressed_andesite",
+                            "skyblock:nonuple_compressed_andesite"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_clay",
+                            "name": "skyblock:itemGroup.compressedClay"
+                        },
+                        "items": [
+                            "skyblock:compressed_clay",
+                            "skyblock:double_compressed_clay",
+                            "skyblock:triple_compressed_clay",
+                            "skyblock:quadruple_compressed_clay",
+                            "skyblock:quintuple_compressed_clay",
+                            "skyblock:sextuple_compressed_clay",
+                            "skyblock:septuple_compressed_clay",
+                            "skyblock:octuple_compressed_clay",
+                            "skyblock:nonuple_compressed_clay"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_cobbled_deepslate",
+                            "name": "skyblock:itemGroup.compressedCobbledDeepslate"
+                        },
+                        "items": [
+                            "skyblock:compressed_cobbled_deepslate",
+                            "skyblock:double_compressed_cobbled_deepslate",
+                            "skyblock:triple_compressed_cobbled_deepslate",
+                            "skyblock:quadruple_compressed_cobbled_deepslate",
+                            "skyblock:quintuple_compressed_cobbled_deepslate",
+                            "skyblock:sextuple_compressed_cobbled_deepslate",
+                            "skyblock:septuple_compressed_cobbled_deepslate",
+                            "skyblock:octuple_compressed_cobbled_deepslate",
+                            "skyblock:nonuple_compressed_cobbled_deepslate"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_gold_block",
+                            "name": "skyblock:itemGroup.compressedGoldBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_gold_block",
+                            "skyblock:double_compressed_gold_block",
+                            "skyblock:triple_compressed_gold_block",
+                            "skyblock:quadruple_compressed_gold_block",
+                            "skyblock:quintuple_compressed_gold_block",
+                            "skyblock:sextuple_compressed_gold_block",
+                            "skyblock:septuple_compressed_gold_block",
+                            "skyblock:octuple_compressed_gold_block",
+                            "skyblock:nonuple_compressed_gold_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_diamond_block",
+                            "name": "skyblock:itemGroup.compressedDiamondBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_diamond_block",
+                            "skyblock:double_compressed_diamond_block",
+                            "skyblock:triple_compressed_diamond_block",
+                            "skyblock:quadruple_compressed_diamond_block",
+                            "skyblock:quintuple_compressed_diamond_block",
+                            "skyblock:sextuple_compressed_diamond_block",
+                            "skyblock:septuple_compressed_diamond_block",
+                            "skyblock:octuple_compressed_diamond_block",
+                            "skyblock:nonuple_compressed_diamond_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_emerald_block",
+                            "name": "skyblock:itemGroup.compressedEmeraldBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_emerald_block",
+                            "skyblock:double_compressed_emerald_block",
+                            "skyblock:triple_compressed_emerald_block",
+                            "skyblock:quadruple_compressed_emerald_block",
+                            "skyblock:quintuple_compressed_emerald_block",
+                            "skyblock:sextuple_compressed_emerald_block",
+                            "skyblock:septuple_compressed_emerald_block",
+                            "skyblock:octuple_compressed_emerald_block",
+                            "skyblock:nonuple_compressed_emerald_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_iron_block",
+                            "name": "skyblock:itemGroup.compressedIronBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_iron_block",
+                            "skyblock:double_compressed_iron_block",
+                            "skyblock:triple_compressed_iron_block",
+                            "skyblock:quadruple_compressed_iron_block",
+                            "skyblock:quintuple_compressed_iron_block",
+                            "skyblock:sextuple_compressed_iron_block",
+                            "skyblock:septuple_compressed_iron_block",
+                            "skyblock:octuple_compressed_iron_block",
+                            "skyblock:nonuple_compressed_iron_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_redstone_block",
+                            "name": "skyblock:itemGroup.compressedRedstoneBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_redstone_block",
+                            "skyblock:double_compressed_redstone_block",
+                            "skyblock:triple_compressed_redstone_block",
+                            "skyblock:quadruple_compressed_redstone_block",
+                            "skyblock:quintuple_compressed_redstone_block",
+                            "skyblock:sextuple_compressed_redstone_block",
+                            "skyblock:septuple_compressed_redstone_block",
+                            "skyblock:octuple_compressed_redstone_block",
+                            "skyblock:nonuple_compressed_redstone_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_copper_block",
+                            "name": "skyblock:itemGroup.compressedCopperBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_copper_block",
+                            "skyblock:double_compressed_copper_block",
+                            "skyblock:triple_compressed_copper_block",
+                            "skyblock:quadruple_compressed_copper_block",
+                            "skyblock:quintuple_compressed_copper_block",
+                            "skyblock:sextuple_compressed_copper_block",
+                            "skyblock:septuple_compressed_copper_block",
+                            "skyblock:octuple_compressed_copper_block",
+                            "skyblock:nonuple_compressed_copper_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_lapis_block",
+                            "name": "skyblock:itemGroup.compressedLapisBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_lapis_block",
+                            "skyblock:double_compressed_lapis_block",
+                            "skyblock:triple_compressed_lapis_block",
+                            "skyblock:quadruple_compressed_lapis_block",
+                            "skyblock:quintuple_compressed_lapis_block",
+                            "skyblock:sextuple_compressed_lapis_block",
+                            "skyblock:septuple_compressed_lapis_block",
+                            "skyblock:octuple_compressed_lapis_block",
+                            "skyblock:nonuple_compressed_lapis_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_netherite_block",
+                            "name": "skyblock:itemGroup.compressedNetheriteBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_netherite_block",
+                            "skyblock:double_compressed_netherite_block",
+                            "skyblock:triple_compressed_netherite_block",
+                            "skyblock:quadruple_compressed_netherite_block",
+                            "skyblock:quintuple_compressed_netherite_block",
+                            "skyblock:sextuple_compressed_netherite_block",
+                            "skyblock:septuple_compressed_netherite_block",
+                            "skyblock:octuple_compressed_netherite_block",
+                            "skyblock:nonuple_compressed_netherite_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_coal_block",
+                            "name": "skyblock:itemGroup.compressedCoalBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_coal_block",
+                            "skyblock:double_compressed_coal_block",
+                            "skyblock:triple_compressed_coal_block",
+                            "skyblock:quadruple_compressed_coal_block",
+                            "skyblock:quintuple_compressed_coal_block",
+                            "skyblock:sextuple_compressed_coal_block",
+                            "skyblock:septuple_compressed_coal_block",
+                            "skyblock:octuple_compressed_coal_block",
+                            "skyblock:nonuple_compressed_coal_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_glowstone",
+                            "name": "skyblock:itemGroup.compressedGlowstone"
+                        },
+                        "items": [
+                            "skyblock:compressed_glowstone",
+                            "skyblock:double_compressed_glowstone",
+                            "skyblock:triple_compressed_glowstone",
+                            "skyblock:quadruple_compressed_glowstone",
+                            "skyblock:quintuple_compressed_glowstone",
+                            "skyblock:sextuple_compressed_glowstone",
+                            "skyblock:septuple_compressed_glowstone",
+                            "skyblock:octuple_compressed_glowstone",
+                            "skyblock:nonuple_compressed_glowstone"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_soul_sand",
+                            "name": "skyblock:itemGroup.compressedSoulSand"
+                        },
+                        "items": [
+                            "skyblock:compressed_soul_sand",
+                            "skyblock:double_compressed_soul_sand",
+                            "skyblock:triple_compressed_soul_sand",
+                            "skyblock:quadruple_compressed_soul_sand",
+                            "skyblock:quintuple_compressed_soul_sand",
+                            "skyblock:sextuple_compressed_soul_sand",
+                            "skyblock:septuple_compressed_soul_sand",
+                            "skyblock:octuple_compressed_soul_sand",
+                            "skyblock:nonuple_compressed_soul_sand"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_tuff",
+                            "name": "skyblock:itemGroup.compressedTuff"
+                        },
+                        "items": [
+                            "skyblock:compressed_tuff",
+                            "skyblock:double_compressed_tuff",
+                            "skyblock:triple_compressed_tuff",
+                            "skyblock:quadruple_compressed_tuff",
+                            "skyblock:quintuple_compressed_tuff",
+                            "skyblock:sextuple_compressed_tuff",
+                            "skyblock:septuple_compressed_tuff",
+                            "skyblock:octuple_compressed_tuff",
+                            "skyblock:nonuple_compressed_tuff"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_flint_block",
+                            "name": "skyblock:itemGroup.compressedFlintBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_flint_block",
+                            "skyblock:double_compressed_flint_block",
+                            "skyblock:triple_compressed_flint_block",
+                            "skyblock:quadruple_compressed_flint_block",
+                            "skyblock:quintuple_compressed_flint_block",
+                            "skyblock:sextuple_compressed_flint_block",
+                            "skyblock:septuple_compressed_flint_block",
+                            "skyblock:octuple_compressed_flint_block",
+                            "skyblock:nonuple_compressed_flint_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_blaze_rod_block",
+                            "name": "skyblock:itemGroup.compressedBlazeRodBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_blaze_rod_block",
+                            "skyblock:double_compressed_blaze_rod_block",
+                            "skyblock:triple_compressed_blaze_rod_block",
+                            "skyblock:quadruple_compressed_blaze_rod_block",
+                            "skyblock:quintuple_compressed_blaze_rod_block",
+                            "skyblock:sextuple_compressed_blaze_rod_block",
+                            "skyblock:septuple_compressed_blaze_rod_block",
+                            "skyblock:octuple_compressed_blaze_rod_block",
+                            "skyblock:nonuple_compressed_blaze_rod_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_calcite",
+                            "name": "skyblock:itemGroup.compressedCalcite"
+                        },
+                        "items": [
+                            "skyblock:compressed_calcite",
+                            "skyblock:double_compressed_calcite",
+                            "skyblock:triple_compressed_calcite",
+                            "skyblock:quadruple_compressed_calcite",
+                            "skyblock:quintuple_compressed_calcite",
+                            "skyblock:sextuple_compressed_calcite",
+                            "skyblock:septuple_compressed_calcite",
+                            "skyblock:octuple_compressed_calcite",
+                            "skyblock:nonuple_compressed_calcite"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_red_sand",
+                            "name": "skyblock:itemGroup.compressedRedSand"
+                        },
+                        "items": [
+                            "skyblock:compressed_red_sand",
+                            "skyblock:double_compressed_red_sand",
+                            "skyblock:triple_compressed_red_sand",
+                            "skyblock:quadruple_compressed_red_sand",
+                            "skyblock:quintuple_compressed_red_sand",
+                            "skyblock:sextuple_compressed_red_sand",
+                            "skyblock:septuple_compressed_red_sand",
+                            "skyblock:octuple_compressed_red_sand",
+                            "skyblock:nonuple_compressed_red_sand"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_gunpowder_block",
+                            "name": "skyblock:itemGroup.compressedGunpowderBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_gunpowder_block",
+                            "skyblock:double_compressed_gunpowder_block",
+                            "skyblock:triple_compressed_gunpowder_block",
+                            "skyblock:quadruple_compressed_gunpowder_block",
+                            "skyblock:quintuple_compressed_gunpowder_block",
+                            "skyblock:sextuple_compressed_gunpowder_block",
+                            "skyblock:septuple_compressed_gunpowder_block",
+                            "skyblock:octuple_compressed_gunpowder_block",
+                            "skyblock:nonuple_compressed_gunpowder_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_dripstone_block",
+                            "name": "skyblock:itemGroup.compressedDripstoneBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_dripstone_block",
+                            "skyblock:double_compressed_dripstone_block",
+                            "skyblock:triple_compressed_dripstone_block",
+                            "skyblock:quadruple_compressed_dripstone_block",
+                            "skyblock:quintuple_compressed_dripstone_block",
+                            "skyblock:sextuple_compressed_dripstone_block",
+                            "skyblock:septuple_compressed_dripstone_block",
+                            "skyblock:octuple_compressed_dripstone_block",
+                            "skyblock:nonuple_compressed_dripstone_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_basalt",
+                            "name": "skyblock:itemGroup.compressedBasalt"
+                        },
+                        "items": [
+                            "skyblock:compressed_basalt",
+                            "skyblock:double_compressed_basalt",
+                            "skyblock:triple_compressed_basalt",
+                            "skyblock:quadruple_compressed_basalt",
+                            "skyblock:quintuple_compressed_basalt",
+                            "skyblock:sextuple_compressed_basalt",
+                            "skyblock:septuple_compressed_basalt",
+                            "skyblock:octuple_compressed_basalt",
+                            "skyblock:nonuple_compressed_basalt"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_mud",
+                            "name": "skyblock:itemGroup.compressedMud"
+                        },
+                        "items": [
+                            "skyblock:compressed_mud",
+                            "skyblock:double_compressed_mud",
+                            "skyblock:triple_compressed_mud",
+                            "skyblock:quadruple_compressed_mud",
+                            "skyblock:quintuple_compressed_mud",
+                            "skyblock:sextuple_compressed_mud",
+                            "skyblock:septuple_compressed_mud",
+                            "skyblock:octuple_compressed_mud",
+                            "skyblock:nonuple_compressed_mud"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_blue_ice",
+                            "name": "skyblock:itemGroup.compressedBlueIce"
+                        },
+                        "items": [
+                            "skyblock:compressed_blue_ice",
+                            "skyblock:double_compressed_blue_ice",
+                            "skyblock:triple_compressed_blue_ice",
+                            "skyblock:quadruple_compressed_blue_ice",
+                            "skyblock:quintuple_compressed_blue_ice",
+                            "skyblock:sextuple_compressed_blue_ice",
+                            "skyblock:septuple_compressed_blue_ice",
+                            "skyblock:octuple_compressed_blue_ice",
+                            "skyblock:nonuple_compressed_blue_ice"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_dragon_egg_block",
+                            "name": "skyblock:itemGroup.compressedDragonEggBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_dragon_egg_block",
+                            "skyblock:double_compressed_dragon_egg_block",
+                            "skyblock:triple_compressed_dragon_egg_block",
+                            "skyblock:quadruple_compressed_dragon_egg_block",
+                            "skyblock:quintuple_compressed_dragon_egg_block",
+                            "skyblock:sextuple_compressed_dragon_egg_block",
+                            "skyblock:septuple_compressed_dragon_egg_block",
+                            "skyblock:octuple_compressed_dragon_egg_block",
+                            "skyblock:nonuple_compressed_dragon_egg_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_nether_star_block",
+                            "name": "skyblock:itemGroup.compressedNetherStarBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_nether_star_block",
+                            "skyblock:double_compressed_nether_star_block",
+                            "skyblock:triple_compressed_nether_star_block",
+                            "skyblock:quadruple_compressed_nether_star_block",
+                            "skyblock:quintuple_compressed_nether_star_block",
+                            "skyblock:sextuple_compressed_nether_star_block",
+                            "skyblock:septuple_compressed_nether_star_block",
+                            "skyblock:octuple_compressed_nether_star_block",
+                            "skyblock:nonuple_compressed_nether_star_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_sugarcane_block",
+                            "name": "skyblock:itemGroup.compressedSugarcaneBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_sugarcane_block",
+                            "skyblock:double_compressed_sugarcane_block",
+                            "skyblock:triple_compressed_sugarcane_block",
+                            "skyblock:quadruple_compressed_sugarcane_block",
+                            "skyblock:quintuple_compressed_sugarcane_block",
+                            "skyblock:sextuple_compressed_sugarcane_block",
+                            "skyblock:septuple_compressed_sugarcane_block",
+                            "skyblock:octuple_compressed_sugarcane_block",
+                            "skyblock:nonuple_compressed_sugarcane_block"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "skyblock:compressed_ender_pearl_block",
+                            "name": "skyblock:itemGroup.compressedEnderPearlBlock"
+                        },
+                        "items": [
+                            "skyblock:compressed_ender_pearl_block",
+                            "skyblock:double_compressed_ender_pearl_block",
+                            "skyblock:triple_compressed_ender_pearl_block",
+                            "skyblock:quadruple_compressed_ender_pearl_block",
+                            "skyblock:quintuple_compressed_ender_pearl_block",
+                            "skyblock:sextuple_compressed_ender_pearl_block",
+                            "skyblock:septuple_compressed_ender_pearl_block",
+                            "skyblock:octuple_compressed_ender_pearl_block",
+                            "skyblock:nonuple_compressed_ender_pearl_block"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

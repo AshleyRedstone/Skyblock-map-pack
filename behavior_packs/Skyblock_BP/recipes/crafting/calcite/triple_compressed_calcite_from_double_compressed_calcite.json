@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:triple_compressed_calcite_from_double_compressed_calcite"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:double_compressed_calcite"
+            }
+        },
+        "result": {
+            "item": "skyblock:triple_compressed_calcite",
+            "count": 1
+        }
+    }
+}

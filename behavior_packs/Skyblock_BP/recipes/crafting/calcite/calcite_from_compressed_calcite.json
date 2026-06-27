@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:calcite_from_compressed_calcite"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:compressed_calcite"
+            }
+        ],
+        "result": {
+            "item": "minecraft:calcite",
+            "count": 9
+        }
+    }
+}

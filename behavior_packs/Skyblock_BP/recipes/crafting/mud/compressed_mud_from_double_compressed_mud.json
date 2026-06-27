@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:compressed_mud_from_double_compressed_mud"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:double_compressed_mud"
+            }
+        ],
+        "result": {
+            "item": "skyblock:compressed_mud",
+            "count": 9
+        }
+    }
+}

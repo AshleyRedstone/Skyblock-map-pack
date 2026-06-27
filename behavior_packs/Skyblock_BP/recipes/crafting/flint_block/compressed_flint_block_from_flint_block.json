@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:compressed_flint_block_from_flint_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:flint_block"
+            }
+        },
+        "result": {
+            "item": "skyblock:compressed_flint_block",
+            "count": 1
+        }
+    }
+}

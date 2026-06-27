@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:compressed_red_sand_from_red_sand"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:red_sand"
+            }
+        },
+        "result": {
+            "item": "skyblock:compressed_red_sand",
+            "count": 1
+        }
+    }
+}

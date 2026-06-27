@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:quintuple_compressed_calcite_from_sextuple_compressed_calcite"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:sextuple_compressed_calcite"
+            }
+        ],
+        "result": {
+            "item": "skyblock:quintuple_compressed_calcite",
+            "count": 9
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:double_compressed_bedrock_from_triple_compressed_bedrock"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:triple_compressed_bedrock"
+            }
+        ],
+        "result": {
+            "item": "skyblock:double_compressed_bedrock",
+            "count": 9
+        }
+    }
+}

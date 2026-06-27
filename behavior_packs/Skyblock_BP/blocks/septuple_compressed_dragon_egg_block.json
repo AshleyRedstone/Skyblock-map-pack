@@ -1,0 +1,46 @@
+{
+    "format_version": "1.26.10",
+    "minecraft:block": {
+        "description": {
+            "identifier": "skyblock:septuple_compressed_dragon_egg_block",
+            "menu_category": {
+                "category": "construction"
+            }
+        },
+        "components": {
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 1422.404296875,
+                "item_specific_speeds": [
+                    {
+                        "destroy_speed": 427.1484375,
+                        "item": {
+                            "tags": "q.all_tags('minecraft:is_tool', 'minecraft:is_pickaxe') && q.any_tag('minecraft:iron_tier', 'minecraft:diamond_tier', 'minecraft:netherite_tier')"
+                        }
+                    }
+                ]
+            },
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 28697814000
+            },
+            "minecraft:friction": 0.4,
+            "minecraft:map_color": "#FFFFFF",
+            "minecraft:light_dampening": 10,
+            "minecraft:movable": {
+                "movement_type": "immovable"
+            },
+            "minecraft:redstone_conductivity": {
+                "redstone_conductor": false
+            },
+            "minecraft:loot": "loot_tables/blocks/septuple_compressed_dragon_egg_block.json",
+            "tag:minecraft:is_pickaxe_item_destructible": {},
+            "tag:minecraft:iron_tier_destructible": {},
+            "tag:skyblock:compressed": {},
+            "minecraft:geometry": "minecraft:geometry.full_block",
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "skyblock:septuple_compressed_dragon_egg_block"
+                }
+            }
+        }
+    }
+}

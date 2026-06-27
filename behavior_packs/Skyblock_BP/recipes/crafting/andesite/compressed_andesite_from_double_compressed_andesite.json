@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:compressed_andesite_from_double_compressed_andesite"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:double_compressed_andesite"
+            }
+        ],
+        "result": {
+            "item": "skyblock:compressed_andesite",
+            "count": 9
+        }
+    }
+}

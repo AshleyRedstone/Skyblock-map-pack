@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:compressed_bedrock_from_bedrock"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:bedrock"
+            }
+        },
+        "result": {
+            "item": "skyblock:compressed_bedrock",
+            "count": 1
+        }
+    }
+}

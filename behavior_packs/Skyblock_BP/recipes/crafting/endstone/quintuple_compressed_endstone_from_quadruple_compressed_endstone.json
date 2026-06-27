@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:quintuple_compressed_endstone_from_quadruple_compressed_endstone"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:quadruple_compressed_endstone"
+            }
+        },
+        "result": {
+            "item": "skyblock:quintuple_compressed_endstone",
+            "count": 1
+        }
+    }
+}

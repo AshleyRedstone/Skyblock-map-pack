@@ -1,0 +1,46 @@
+{
+    "format_version": "1.26.10",
+    "minecraft:block": {
+        "description": {
+            "identifier": "skyblock:compressed_flint_block",
+            "menu_category": {
+                "category": "construction"
+            }
+        },
+        "components": {
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 14.985,
+                "item_specific_speeds": [
+                    {
+                        "destroy_speed": 4.5,
+                        "item": {
+                            "tags": "q.all_tags('minecraft:is_tool', 'minecraft:is_pickaxe') && q.any_tag('minecraft:iron_tier', 'minecraft:diamond_tier', 'minecraft:netherite_tier')"
+                        }
+                    }
+                ]
+            },
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 135.0
+            },
+            "minecraft:friction": 0.4,
+            "minecraft:map_color": "#FFFFFF",
+            "minecraft:light_dampening": 0,
+            "minecraft:movable": {
+                "movement_type": "immovable"
+            },
+            "minecraft:redstone_conductivity": {
+                "redstone_conductor": false
+            },
+            "minecraft:loot": "loot_tables/blocks/compressed_flint_block.json",
+            "tag:minecraft:is_pickaxe_item_destructible": {},
+            "tag:minecraft:iron_tier_destructible": {},
+            "tag:skyblock:compressed": {},
+            "minecraft:geometry": "minecraft:geometry.full_block",
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "skyblock:compressed_flint_block"
+                }
+            }
+        }
+    }
+}

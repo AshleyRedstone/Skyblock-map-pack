@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:iron_block_from_compressed_iron_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:compressed_iron_block"
+            }
+        ],
+        "result": {
+            "item": "minecraft:iron_block",
+            "count": 9
+        }
+    }
+}

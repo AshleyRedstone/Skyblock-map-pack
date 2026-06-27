@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:triple_compressed_glowstone_from_quadruple_compressed_glowstone"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:quadruple_compressed_glowstone"
+            }
+        ],
+        "result": {
+            "item": "skyblock:triple_compressed_glowstone",
+            "count": 9
+        }
+    }
+}

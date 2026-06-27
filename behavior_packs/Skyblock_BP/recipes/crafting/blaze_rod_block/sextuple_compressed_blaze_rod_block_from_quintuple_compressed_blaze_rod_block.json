@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:sextuple_compressed_blaze_rod_block_from_quintuple_compressed_blaze_rod_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "skyblock:quintuple_compressed_blaze_rod_block"
+            }
+        },
+        "result": {
+            "item": "skyblock:sextuple_compressed_blaze_rod_block",
+            "count": 1
+        }
+    }
+}

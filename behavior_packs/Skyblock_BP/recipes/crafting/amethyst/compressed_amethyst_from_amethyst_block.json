@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:compressed_amethyst_from_amethyst_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:amethyst_block"
+            }
+        },
+        "result": {
+            "item": "skyblock:compressed_amethyst",
+            "count": 1
+        }
+    }
+}

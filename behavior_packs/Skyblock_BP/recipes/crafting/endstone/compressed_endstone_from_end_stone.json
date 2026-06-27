@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "skyblock:compressed_endstone_from_end_stone"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:end_stone"
+            }
+        },
+        "result": {
+            "item": "skyblock:compressed_endstone",
+            "count": 1
+        }
+    }
+}

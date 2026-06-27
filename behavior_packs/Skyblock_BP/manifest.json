@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Skyblock",
+        "description": "Skyblock map behaviour pack",
+        "uuid": "87c5d7aa-65c0-48fd-a33e-f14995f71190",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "fa034e19-79dc-4d00-96d1-71a506b55297",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "82fa5e1d-9249-4736-a6c7-d24ec4b8a46f",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

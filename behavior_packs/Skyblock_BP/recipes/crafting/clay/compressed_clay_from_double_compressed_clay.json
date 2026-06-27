@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shapeless": {
+        "priority": 1,
+        "description": {
+            "identifier": "skyblock:compressed_clay_from_double_compressed_clay"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "skyblock:double_compressed_clay"
+            }
+        ],
+        "result": {
+            "item": "skyblock:compressed_clay",
+            "count": 9
+        }
+    }
+}
