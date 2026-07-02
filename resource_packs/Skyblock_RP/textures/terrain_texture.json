@@ -1241,8 +1241,17 @@
         "skyblock:octuple_compressed_ender_pearl_block": {
             "textures": "textures/blocks/octuple_compressed_ender_pearl_block"
         },
-        "skyblock:nonuple_compressed_ender_pearl_block": {
-            "textures": "textures/blocks/nonuple_compressed_ender_pearl_block"
+    "skyblock:nonuple_compressed_ender_pearl_block": {
+        "textures": "textures/blocks/nonuple_compressed_ender_pearl_block"
+       },
+    "skyblock:half_redstone_block_top": {
+        "textures": "textures/blocks/half_redstone_block_top"
+       },
+    "skyblock:half_redstone_block_bottom": {
+        "textures": "textures/blocks/half_redstone_block_bottom"
+       },
+    "skyblock:half_redstone_block_side": {
+        "textures": "textures/blocks/half_redstone_block_side"
         }
     }
 }
